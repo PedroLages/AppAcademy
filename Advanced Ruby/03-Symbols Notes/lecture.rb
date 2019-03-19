@@ -57,5 +57,5 @@ bootcamp = {
   color:"red",
   locations:["NY", "SF", "ONLINE"]
 }
-p bootcamp  # => {:name=>"App Academy", :color=>"red", :locations=>["NY", "SF", "ONLINE"]}
+p bootcamp # => {:name=>"App Academy", :color=>"red", :locations=>["NY", "SF", "ONLINE"]}
 p bootcamp[:color]   #=> "red
