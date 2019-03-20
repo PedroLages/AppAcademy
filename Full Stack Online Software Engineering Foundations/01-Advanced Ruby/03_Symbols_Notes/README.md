@@ -1,3 +1,4 @@
+
 # Symbols
 #  In Ruby, we can denote a symbol using a colon (:) before writing characters.
 #  Where a string is wrapped in quotes, a symbol just has a leading colon.
