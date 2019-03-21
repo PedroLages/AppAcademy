@@ -18,4 +18,4 @@ end
 
 array = %w[1 5 2 3 0 8 5]
 
-p sort(array)
+p bubble_sort(array)
