@@ -1,0 +1,298 @@
+CURRENT COURSE
+Full Stack Online - Software Engineering Foundations
+Switch
+Introduction
+01:19:006/6
+INTRO
+✔︎Welcome
+00:01:00
+✔︎Ruby Environment Setup
+00:30:00
+✔︎Installing Linux on Windows
+00:30:00
+✔︎Terminal Basics Notes
+00:05:00
+✔︎Terminal And VScode Lecture
+00:10:00
+W1D1
+✔︎Course Guidelines
+00:03:00
+Advanced Ruby
+02:58:0013/13
+LECTURES
+✔︎Becoming A Rubyist Notes
+00:05:00
+✔︎Common Enumerables Notes
+00:05:00
+✔︎Using Documentation Lecture
+00:10:00
+✔︎Symbols Notes
+00:05:00
+✔︎Symbols Lecture
+00:10:00
+✔︎Default Arguments And Option Hashes Notes
+00:05:00
+✔︎Default Args and Option Hashes Lecture
+00:05:00
+✔︎Splat Operator Notes
+00:05:00
+✔︎Splat Operator Lecture
+00:05:00
+✔︎Inject Notes
+00:08:00
+✔︎Inject Lecture
+00:10:00
+EXERCISES
+✔︎Advanced Methods Exercise
+01:20:00
+✔︎Advanced Methods Exercise Walkthrough
+00:25:00
+Scope & References
+03:45:006/10
+ALGORITHM LECTURES
+✔︎Bubble Sort Notes
+00:05:00
+✔︎Bubble Sort Lecture
+00:15:00
+ALGORITHM EXERCISES
+⬆︎Algorithmic Strategies Exercise
+01:15:00
+►Algorithmic Strategies Exercise Walkthrough
+00:25:00
+SCOPE & REFERENCES LECTURES
+✔︎Scope Notes
+00:08:00
+✔︎Scope Lecture
+00:12:00
+✔︎Variable References Lecture 1
+00:15:00
+✔︎Variable References Lecture 2
+00:10:00
+SCOPE & REFERENCES EXERCISES
+⬆︎References Exercise
+00:45:00
+►References Exercise Walkthrough
+00:15:00
+RSpec
+06:43:003/10
+LECTURES
+✔︎Intro To Testing Notes
+00:10:00
+✔︎RSpec Notes
+00:08:00
+✔︎RSpec Lecture
+00:20:00
+●Exceptions Notes
+00:10:00
+EXERCISES
+⬆︎RSpec Exercise 1
+02:30:00
+►RSpec Exercise 1 Part 1 Walkthrough
+00:20:00
+►RSpec Exercise 1 Part 2 Walkthrough
+00:25:00
+⬆︎RSpec Exercise 2
+02:00:00
+►RSpec Exercise 2 Part 1 Walkthrough
+00:25:00
+►RSpec Exercise 2 Part 2 Walkthrough
+00:15:00
+Debugging
+04:30:000/10
+LECTURES
+●Pry Notes
+00:08:00
+►Pry Lecture
+00:12:00
+●Bye Bug Notes
+00:10:00
+►Bye Bug Lecture
+00:25:00
+●Common Error Types Notes
+00:05:00
+►Common Error Types Lecture
+00:10:00
+EXERCISES
+⬆︎Debugging Exercise 1
+01:15:00
+►Debugging Exercise 1 Walkthrough
+00:25:00
+⬆︎Debugging Exercise 2
+01:15:00
+►Debugging Exercise 2 Walkthrough
+00:25:00
+Blocks & Procs
+04:45:000/9
+BLOCKS
+●Blocks Notes
+00:10:00
+⬆︎Blocks Project
+01:30:00
+►Blocks Project Part 1 Walkthrough
+00:15:00
+►Blocks Project Part 2 Walkthrough
+00:15:00
+PROCS
+●Procs Notes
+00:10:00
+►Procs Lecture
+00:25:00
+⬆︎Procs Project
+01:30:00
+►Procs Project Part 1 Walkthrough
+00:15:00
+►Procs Project Part 2 Walkthrough
+00:15:00
+Classes
+06:30:000/11
+CLASS FUNDAMENTALS
+●Class Basics Notes
+00:15:00
+►Class Basics Lecture
+00:25:00
+●Instance Vs Class Variables Notes
+00:10:00
+►Instance Vs Class Variables Lecture
+00:15:00
+●Instance Vs Class Methods Notes
+00:10:00
+►Instance Vs Class Methods Lecture
+00:15:00
+DOG PROJECT
+⬆︎Dog Project
+01:15:00
+►Dog Project Walkthrough
+00:25:00
+BOOTCAMP PROJECT
+⬆︎Bootcamp Project
+02:30:00
+►Bootcamp Project Part 1 Walkthrough
+00:25:00
+►Bootcamp Project Part 2 Walkthrough
+00:25:00
+Class Monkey Patching
+03:10:000/4
+MONKEY PATCHING
+►Monkey Patching Lecture
+00:10:00
+⬆︎Monkey Patching Project
+02:15:00
+►Monkey Patching Project Part 1 Walkthrough
+00:25:00
+►Monkey Patching Project Part 2 Walkthrough
+00:20:00
+Input/Output
+09:31:000/13
+I/O LECTURES
+●Requiring Files Notes
+00:10:00
+►Requiring Files Lecture
+00:15:00
+●User Input Notes
+00:06:00
+►User Input Lecture
+00:10:00
+GUESSING GAME PROJECT
+⬆︎Guessing Game Project
+02:15:00
+►Guessing Game Project Walkthrough
+00:20:00
+HANGMAN PROJECT
+⬆︎Hangman Project
+02:15:00
+►Hangman Project Part 1 Walkthrough
+00:20:00
+►Hangman Project Part 2 Walkthrough
+00:25:00
+HOTEL PROJECT
+⬆︎Hotel Project
+02:30:00
+►Hotel Project Part 1 Walkthrough
+00:15:00
+►Hotel Project Part 2A Walkthrough
+00:15:00
+►Hotel Project Part 2B Walkthrough
+00:15:00
+Object Oriented Programming
+12:47:000/18
+ATTR LECTURES
+●Abstraction And Encapsulation Notes
+00:10:00
+●Attr Methods Notes
+00:10:00
+►Attr Methods Lecture
+00:12:00
+STARTUP PROJECT
+⬆︎Startup Project
+02:45:00
+►Startup Project Part 1 Walkthrough
+00:05:00
+►Startup Project Part 2 Walkthrough
+00:25:00
+►Startup Project Part 3 Walkthrough
+00:25:00
+SYNTACTIC SUGAR
+●Syntactic Sugar Notes
+00:10:00
+►Syntactic Sugar Lecture 1
+00:10:00
+►Syntactic Sugar Lecture 2
+00:10:00
+MASTERMIND PROJECT
+⬆︎Mastermind Project
+03:00:00
+►Mastermind Project Part 1 Walkthrough
+00:20:00
+►Mastermind Project Part 2 Walkthrough
+00:15:00
+►Mastermind Project Part 3 Walkthrough
+00:15:00
+BATTLESHIP PROJECT
+⬆︎Battleship Project
+03:15:00
+►Battleship Project Part 1 Walkthrough
+00:20:00
+►Battleship Project Part 2 Walkthrough
+00:20:00
+►Battleship Project Part 3 Walkthrough
+00:20:00
+Recursion
+02:14:000/8
+LECTURES
+●Recursion Notes
+00:05:00
+►Recursion Lecture
+00:10:00
+●Recursive Factorial Notes
+00:06:00
+►Recursive Factorial Lecture
+00:10:00
+●Recursive Fib Notes
+00:08:00
+►Recursive Fib Lecture
+EXERCISES
+⬆︎Recursion Exercise
+01:15:00
+►Recursive Exercise Walkthrough
+00:20:00
+Foundations Recap
+03:00:000/9
+LECTURES
+●Recap Section
+00:02:00
+●Spaceship Operator Notes
+00:08:00
+►Spaceship Operator Lecture
+00:15:00
+●Nil as Falsey Notes
+00:10:00
+►Nil as Falsey Lecture
+00:15:00
+EXERCISES
+⬆︎Recap Exercise 1
+00:45:00
+►Recap Exercise 1 Walkthrough
+00:25:00
+⬆︎Recap Exercise 2
+00:45:00
+►Recap Exercise 2 Walkthrough
